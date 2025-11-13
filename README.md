@@ -5,7 +5,7 @@ CryptoBonus.to Frontend (Porteføljeversjon)
 --- 📝 Kort Om Prosjektet ---
 Dette repositoryet inneholder kildekoden for **CryptoBonus.to**, en sammenligningsplattform for krypto-bonuser. Prosjektet er et rent Vanilla JavaScript frontend-prosjekt, bygget for å demonstrere effektiv datahåndtering og filtrering på klientsiden, i kombinasjon med en SEO-vennlig og responsiv struktur.
 
-✨ Viktigste Funksjoner og Teknisk Implementasjon
+--- Viktigste Funksjoner og Teknisk Implementasjon ---
 
 | **Avansert Filtrering** | Bruk av ren **Vanilla JavaScript** i `all-bonuses.html` for dynamisk og lynrask sortering/filtrering av bonuser uten eksterne biblioteker. |
 | **Responsivt Design** | Fullt responsivt og mobil-fokusert design, sikret gjennom ren **CSS** (uten rammeverk). |
