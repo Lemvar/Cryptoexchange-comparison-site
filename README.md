@@ -17,6 +17,16 @@ Dette repositoryet inneholder kildekoden for **CryptoBonus.to**, en sammenlignin
 
 <br>
 
+**Hva du skal se etter / Kompetanse demonstrert**
+
+**`all-bonuses.html`** | **Klikk på filterkategoriene** (f.eks. "Exchange", "Gambling"). Sjekk at listen sorterer **umiddelbart** uten å laste siden på nytt.
+
+**`index.html`** | Sjekk at karusellen og de integrerte kortene ruller og filtreres riktig.
+
+**Hele Siden** | Sjekk det responsive designet ved å **endre størrelsen på nettleservinduet** (fra bredt til smalt).
+
+<br>
+
 ## Viktigste Funksjoner og Teknisk Implementasjon (For nerder🤓)
 
 Bruk av ren **Vanilla JavaScript** i `all-bonuses.html` for dynamisk og lynrask sortering/filtrering av bonuser uten eksterne biblioteker. |
@@ -28,12 +38,4 @@ Implementering av karusell-funksjonalitet (`index.html`) og klar navigasjon for 
 Semantisk **HTML5**-struktur, riktig bruk av **meta-tags** og `rel="canonical"` lenker for god søkemotoroptimalisering. |
 
 <br>
-
-**Hva du skal se etter / Kompetanse demonstrert**
-
-**`all-bonuses.html`** | **Klikk på filterkategoriene** (f.eks. "Exchange", "Gambling"). Sjekk at listen sorterer **umiddelbart** uten å laste siden på nytt.
-
-**`index.html`** | Sjekk at karusellen og de integrerte kortene ruller og filtreres riktig.
-
-**Hele Siden** | Sjekk det responsive designet ved å **endre størrelsen på nettleservinduet** (fra bredt til smalt).
 
